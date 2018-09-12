@@ -17,5 +17,10 @@ gulp.task('scripts', function() {
   return gulp.src('src/js/*.js')
     .pipe(concat('bundle.js'))
     .pipe(minify())
-    .pipe(gulp.dest('dist/js/'));
+    .pipe(gulp.dest('dist/js/'))
+});
+
+gulp.task('watch', function() {
+    gulp.watch('src/css/*.scss', ['sass'])
+    gulp.watch('src/js/*.js', ['scripts'])
 });
