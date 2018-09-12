@@ -45,4 +45,17 @@ gulp scripts
 ## Output
 
 All filed will be output into the /dist/ directory.
+
 (dist is ignored in this repository since compiled code should not be committed.)
+
+### CSS dist path
+
+```
+/dist/css/bundles.css
+```
+
+### JS dist path
+
+```
+/dist/jss/bundles.css
+```
