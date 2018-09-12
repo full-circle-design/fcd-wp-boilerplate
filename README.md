@@ -41,3 +41,8 @@ Concatenate and minify js into a (you guessed it) bundle.js file:
 ```
 gulp scripts
 ```
+
+## Output
+
+All filed will be output into the /dist/ directory.
+(dist is ignored in this repository since compiled code should not be committed.)
