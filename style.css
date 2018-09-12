@@ -1,0 +1,11 @@
+/*
+Theme Name: FCD Boilerplate
+Theme URI: http://fullcircledesign.co
+Author: John Stanhope - Full Circle Design
+Author URI: http://fullcircledesign.co
+Description: Custom theme for [client name]
+Version: 1.0
+*/
+
+/* Import compiled sass bundle */
+@import url('dist/css/bundle.css');
