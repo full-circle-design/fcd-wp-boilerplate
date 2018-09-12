@@ -1,4 +1,4 @@
-# A boilerplate WP theme for awesomizing devops at FCD.
+# A boilerplate WP theme for awesomizing devops at FCD
 
 
 ## Get started
